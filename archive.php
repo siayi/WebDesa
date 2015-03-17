@@ -1,41 +1,20 @@
 <?php get_header(); ?>
-
 	<div id="innerLeft">	
-
-	
-
 		<div id="bcrum">		
-
 			<?php $post = $posts[0]; // Hack. Set $post so that the_date() works. ?>
-
 				<?php /* If this is a category archive */ if (is_category()) { ?>
-
 				<span class="labelBC"><a href="<?php bloginfo('url'); ?>" title="<?php bloginfo('description'); ?>"><?php _e('Home','WebDesa'); ?></a> &raquo; <?php single_cat_title(); ?></span>
-
 				<span class="locationBC"><?php _e('Posting dalam kategori','WebDesa'); ?> <strong>&#8220;<?php single_cat_title(); ?>&#8221;</strong></span>
-
-				
-
 				<?php /* If this is a tag archive */ } elseif( is_tag() ) { ?>
 
 				<span class="labelBC"><a href="<?php bloginfo('url'); ?>" title="<?php bloginfo('description'); ?>"><?php _e('Home','WebDesa'); ?></a> &raquo; <?php single_tag_title(); ?></span>
 
 				<span class="locationBC"><?php _e('Posting dalam tag','WebDesa'); ?> <strong>&#8220;<?php single_tag_title(); ?>&#8221;</strong></span>
-
-							
-
 				<?php /* If this is a daily archive */ } elseif (is_day()) { ?>
-
 				<span class="labelBC"><a href="<?php bloginfo('url'); ?>" title="<?php bloginfo('description'); ?>"><?php _e('Home','WebDesa'); ?></a></a> &raquo; <?php the_time($trns_options["dateFormatA"]) ?></span>
-
 				<span class="locationBC"><?php _e('Entri dalam','WebDesa'); ?> <strong>&#8220;<?php the_time('F jS, Y'); ?>&#8221;</strong></span>
-
-						
-
 				<?php /* If this is a monthly archive */ } elseif (is_month()) { ?>
-
 				<span class="labelBC"><a href="<?php bloginfo('url'); ?>" title="<?php bloginfo('description'); ?>"><?php _e('Home','WebDesa'); ?></a></a> &raquo; <?php the_time($trns_options["dateFormatA"]) ?></span>
-
 				<span class="locationBC"><?php _e('Entri dalam','WebDesa'); ?> <strong>&#8220;<?php the_time('F, Y'); ?>&#8221;</strong></span>
 
 							
