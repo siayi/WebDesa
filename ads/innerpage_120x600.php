@@ -1,0 +1,1 @@
+<?php echo $trns_options["ad120x600_inner"]; ?>

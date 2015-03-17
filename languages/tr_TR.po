@@ -1,0 +1,480 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Transcript v1.4-B1 - FrameWork 1.0b\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2010-05-16 17:35+0300\n"
+"Last-Translator: Mehmet <mhmtozek@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ../\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#@ Transcript
+#: archive-default.php:75
+msgid "Posted in"
+msgstr "Kategori"
+
+#@ Transcript
+#: archive-default.php:75
+#: home.php:51
+#: home.php:125
+#: home.php:184
+#: home.php:311
+#: home.php:357
+#: home.php:403
+#: home.php:449
+#: home.php:495
+#: home.php:587
+#: home.php:640
+#: home.php:709
+#: home.php:759
+msgid "Read More &raquo;"
+msgstr "Devamını Oku"
+
+#@ Transcript
+#: archive-media.php:27
+msgid "Permalink"
+msgstr "Kalıcı bağlantı"
+
+#@ Transcript
+#: archive.php:7
+#: archive.php:11
+#: archive.php:15
+#: archive.php:19
+#: archive.php:23
+#: footer.php:10
+#: header.php:107
+#: search.php:5
+msgid "Home"
+msgstr "Ana Sayfa"
+
+#@ Transcript
+#: archive.php:8
+msgid "You are browsing entries filed in"
+msgstr "Kategori bazında arşiv"
+
+#@ Transcript
+#: archive.php:12
+msgid "You are browsing entries tagged with"
+msgstr "Etiket bazında arşiv"
+
+#@ Transcript
+#: archive.php:16
+#: archive.php:20
+#: archive.php:24
+msgid "Entries posted on"
+msgstr "Tarih bazında arşiv"
+
+#@ Transcript
+#: archive.php:27
+msgid "Author Archive"
+msgstr "Yazar Arşivi"
+
+#@ Transcript
+#: archive.php:37
+msgid "Stories written by"
+msgstr "Yazar"
+
+#@ Transcript
+#: attachment.php:7
+#: single.php:10
+#: single.php:56
+msgid "Posted by"
+msgstr "Yazar"
+
+#@ Transcript
+#: attachment.php:17
+msgid "&laquo; Previous Image"
+msgstr "&laquo; Önceki Fotoğraf"
+
+#@ Transcript
+#: attachment.php:17
+msgid "Back to Post"
+msgstr "Yazıya Dön"
+
+#@ Transcript
+#: attachment.php:17
+msgid "Next Image &raquo;"
+msgstr "Sonraki Fotoğraf &raquo;"
+
+#@ Transcript
+#: comments.php:9
+msgid "Please do not load this page directly. Thanks!"
+msgstr "Bu sayfa doğrudan erişime kapalıdır"
+
+#@ Transcript
+#: comments.php:12
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "Bu yazı şifre korumalıdır. Yorumları görmek için lütfen şifrenizi giriniz"
+
+#@ Transcript
+#: comments.php:21
+#: home.php:51
+#: home.php:125
+#: home.php:184
+#: home.php:311
+#: home.php:357
+#: home.php:403
+#: home.php:449
+#: home.php:495
+#: home.php:587
+#: home.php:640
+#: home.php:709
+#: home.php:759
+msgid "No Comment"
+msgstr "Yorum yok"
+
+#@ Transcript
+#: comments.php:21
+#: home.php:51
+#: home.php:125
+#: home.php:184
+#: home.php:311
+#: home.php:357
+#: home.php:403
+#: home.php:449
+#: home.php:495
+#: home.php:587
+#: home.php:640
+#: home.php:709
+#: home.php:759
+msgid "1 Comment"
+msgstr "1 yorum"
+
+#@ Transcript
+#: comments.php:21
+#: home.php:51
+#: home.php:125
+#: home.php:184
+#: home.php:311
+#: home.php:357
+#: home.php:403
+#: home.php:449
+#: home.php:495
+#: home.php:587
+#: home.php:640
+#: home.php:709
+#: home.php:759
+msgid "% Comments"
+msgstr "% yorum"
+
+#@ Transcript
+#: comments.php:21
+msgid "for"
+msgstr " . "
+
+#@ Transcript
+#: comments.php:40
+msgid "Comments are closed"
+msgstr "Yoruma kapalı"
+
+#@ Transcript
+#: comments.php:47
+msgid "You must be logged in to post a comment"
+msgstr "Yorum yazabilmek için giriş yapmanız gerekmektedir"
+
+#@ Transcript
+#: comments.php:47
+msgid "Login"
+msgstr "Giriş"
+
+#@ Transcript
+#: comments.php:50
+msgid "Leave a Reply"
+msgstr "Yorum Yazın"
+
+#@ Transcript
+#: comments.php:60
+msgid "Logged in as:"
+msgstr "Giriş yapan kullanıcı"
+
+#@ Transcript
+#: comments.php:60
+msgid "Logout"
+msgstr "Çıkış"
+
+#@ Transcript
+#: comments.php:64
+msgid "Name (required)"
+msgstr "İsim (gerekli)"
+
+#@ Transcript
+#: comments.php:67
+msgid "Mail (will not be published) (required)"
+msgstr "Mail (yayınlanmayacaktır) (gerekli)"
+
+#@ Transcript
+#: comments.php:70
+msgid "Website"
+msgstr "Web Sitesi"
+
+#@ Transcript
+#: footer.php:12
+#: header.php:124
+msgid "Subscribe to latest posts in RSS"
+msgstr "RSS beslemsine üye olun"
+
+#@ Transcript
+#: footer.php:12
+msgid "RSS"
+msgstr "RSS"
+
+#@ Transcript
+#: header.php:9
+msgid "404 Error! Page Not Found"
+msgstr "404 Hatası! Sayfa bulunamadı"
+
+#@ Transcript
+#: header.php:10
+#: search.php:6
+msgid "Search results for:"
+msgstr "Arama sonuçları: "
+
+#@ Transcript
+#: header.php:122
+msgid "Stay Connected"
+msgstr "Bağlı Kal"
+
+#@ Transcript
+#: header.php:124
+msgid "Latest Posts in RSS"
+msgstr "Son Yazılar için RSS"
+
+#@ Transcript
+#: header.php:135
+msgid "Subscribe to latest comments in RSS"
+msgstr "Son Yorumlar için RSS"
+
+#@ Transcript
+#: header.php:135
+msgid "Latest Comments in RSS"
+msgstr "Son Yorumlar için RSS"
+
+#@ Transcript
+#: header.php:136
+msgid "Subscribe to latest posts via email"
+msgstr "Email Aboneliği"
+
+#@ Transcript
+#: header.php:136
+msgid "Subscribe by e-mail"
+msgstr "Email Aboneliği"
+
+#@ Transcript
+#: header.php:137
+msgid "follow on twitter"
+msgstr "Twitter'da Takip Et"
+
+#@ Transcript
+#: header.php:137
+msgid "Follow us on Twitter"
+msgstr "Twitter'da Takip Et"
+
+#@ Transcript
+#: header.php:138
+msgid "Connect on facebook"
+msgstr "Facebook ile Bağlan"
+
+#@ Transcript
+#: header.php:138
+msgid "Connect on Facebook"
+msgstr "Facebook ile Bağlan"
+
+#@ Transcript
+#: home.php:51
+#: home.php:125
+#: home.php:184
+msgid "Edit"
+msgstr "Düzenle"
+
+#@ Transcript
+#: home.php:97
+#: home.php:156
+msgid " &raquo;"
+msgstr " &raquo;"
+
+#@ Transcript
+#: home.php:238
+msgid "Play Video"
+msgstr "Videoyu Oynat"
+
+#@ Transcript
+#: home.php:240
+msgid "Read More"
+msgstr "Devamını Oku"
+
+#@ Transcript
+#: includes/theme-comments.php:14
+msgid "(Edit)"
+msgstr "(Düzenle)"
+
+#@ Transcript
+#: includes/theme-comments.php:23
+msgid "Your comment is awaiting moderation."
+msgstr "Yorumunuz onay beklemekte"
+
+#@ Transcript
+#: includes/theme-control-panel.php:13
+msgid "Theme Settings"
+msgstr "Tema Kontrol Paneli"
+
+#@ Transcript
+#: includes/theme-functions.php:15
+msgid "Share It"
+msgstr "Paylaş"
+
+#@ Transcript
+#: includes/theme-functions.php:17
+msgid "Digg It"
+msgstr "Digg"
+
+#@ Transcript
+#: includes/theme-functions.php:18
+msgid "Del Icio Us"
+msgstr "Del Icio Us"
+
+#@ Transcript
+#: includes/theme-functions.php:19
+msgid "Add to Facebook"
+msgstr "Facebook"
+
+#@ Transcript
+#: includes/theme-functions.php:20
+msgid "Google Bookmarks"
+msgstr "Google Bookmarks"
+
+#@ Transcript
+#: includes/theme-functions.php:21
+msgid "Stumble It"
+msgstr "Stumble"
+
+#@ Transcript
+#: includes/theme-functions.php:22
+msgid "Twitter"
+msgstr "Twitter"
+
+#@ Transcript
+#: includes/theme-functions.php:23
+msgid "Add to Reddit"
+msgstr "Reddit'e Ekle"
+
+#@ Transcript
+#: includes/theme-functions.php:24
+msgid "Print This Post"
+msgstr "Yazdır"
+
+#@ Transcript
+#: includes/theme-functions.php:33
+msgid "More on "
+msgstr "Kategori Arşivi: "
+
+#@ Transcript
+#: innerNarrowSidebar.php:21
+msgid "Archives"
+msgstr "Arşiv"
+
+#@ Transcript
+#: innerWideSidebar.php:26
+msgid "Recently Commented"
+msgstr "En Son Yorumlananlar"
+
+#@ Transcript
+#: innerWideSidebar.php:35
+msgid "Recently Added"
+msgstr "Son Eklenenler"
+
+#@ Transcript
+#: mainpage-topsidebar.php:6
+msgid "MOST RECENT"
+msgstr "EN SON"
+
+#@ Transcript
+#: mainpage-topsidebar.php:9
+msgid "Posts"
+msgstr "Yazılar"
+
+#@ Transcript
+#: mainpage-topsidebar.php:10
+msgid "Opinions"
+msgstr "Görüşler"
+
+#@ Transcript
+#: page.php:8
+#: page.php:40
+#: single.php:15
+#: single.php:51
+#: tpl-archives.php:13
+#: tpl-content_middle.php:15
+#: tpl-content_middle.php:47
+#: tpl-full_width.php:13
+#: tpl-full_width.php:45
+#: tpl-left_sidebar.php:17
+#: tpl-left_sidebar.php:49
+msgid "Edit This Post"
+msgstr "Düzenle"
+
+#@ Transcript
+#: search.php:5
+msgid "Search in archive"
+msgstr "Arşivde arama"
+
+#@ Transcript
+#: searchform.php:3
+#: searchform.php:4
+msgid "Search in site..."
+msgstr "Site içi arama..."
+
+#@ Transcript
+#: single.php:46
+msgid "Short URL"
+msgstr "Kısa URL"
+
+#@ Transcript
+#: single.php:61
+msgid "on"
+msgstr " . "
+
+#@ Transcript
+#: single.php:61
+msgid "Filed under"
+msgstr "Kategori"
+
+#@ Transcript
+#: single.php:62
+msgid "You can follow any responses to this entry through the"
+msgstr "Bu yazıya eklenen yorumları RSS beslemesi üzerinden takit edebilirsiniz"
+
+#@ Transcript
+#: single.php:65
+msgid "You can leave a response or trackback to this entry"
+msgstr "Yorum yazabilir veya geri izlemede bulunabilirsiniz."
+
+#@ Transcript
+#: single.php:68
+msgid "Responses are currently closed, but you can trackback from your own site."
+msgstr "Yoruma kapalı fakat geri izlemeye açıkç"
+
+#@ Transcript
+#: single.php:71
+msgid "You can skip to the end and leave a response. Pinging is currently not allowed."
+msgstr "Yoruma açık fakat geri izlemeye kapalı."
+
+#@ Transcript
+#: single.php:74
+msgid "Both comments and pings are currently closed."
+msgstr "Yoruma ve geri izlemeye kapalı"
+
+#@ WpAdvNewspaper
+#: tpl-archives.php:63
+msgid "Edit This Entry"
+msgstr "Düzenle"
+
