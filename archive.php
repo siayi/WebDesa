@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <?php get_header(); ?>
 	<div id="innerLeft">	
 	
@@ -174,4 +173,3 @@
 
 </html>
 
->>>>>>> 02c6aca7e0d291810f891dc1fce635e18052aec3
