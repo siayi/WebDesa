@@ -22,12 +22,10 @@
 </span>
 <!--[if lte IE 8]></span><![endif]--> 2009 - <?php echo date('Y'); ?> 
 		Seluruh konten dalam website <a href="<?php bloginfo('url'); ?>" title="<?php bloginfo('description'); ?>"><?php bloginfo('name'); ?></a> ini berlisensi <a href="http://creativecommons.org/licenses/by-nc-sa/3.0/" title="CC-BY-SA-NC">CC-BY-SA-NC</a>. 
-		<?php wp_loginout(); ?>
 		<?php wp_footer(); ?> - 
 		<?php if ( is_user_logged_in() ) { ?>  
 		<a href="<?php bloginfo('url'); ?>/wp-admin/edit.php">Manage</a> -
-		<a href="<?php bloginfo('url'); ?>/wp-admin/post-new.php">Write New Post</a> - <?php } ?>
-		Designed by <a href="http://www.facebook.com/Desa.Ciburial" title="Desa Ciburial hoyong Mandiri">Desa Ciburial Mandiri</a>
+		<a href="<?php bloginfo('url'); ?>/wp-admin/post-new.php">Write New Post</a> - <?php } ?> Desain: <a href="http://www.facebook.com/Desa.Ciburial" title="Desa Ciburial hoyong Mandiri">DCHM</a> | Didukung Oleh: <a href="http://infest.or.id/" title="Infest">Infest</a> - <a href="http://www.mitradesa.id/" title="Mitra Desa">Mitra Desa</a> - <a href="http://desamembangun.or.id" title="Gerakan Desa Membangun">GDM</a>
 		
 	</p>
 	</div><!-- /footer_data -->
@@ -41,10 +39,6 @@
 	<div class="clear"></div>
 </div><!-- /footer -->
 <?php echo $trns_options["stattracker"]; ?>
-<script type="text/javascript">
-document.write(unescape("%3Cscript type='text/javascript' src='" + (("https:" == document.location.protocol) ? "https://ssl" : "http://t") + ".visitstreamer.com/vs.js'%3E%3C/script%3E"));
-</script>
-<script type="text/javascript">
-try {var _vsTracker = _vs.createTracker("28s-QoJupvJyz"); _vsTracker.trackPageview();}catch(e){}
-</script>
-<noscript><div><a href="http://www.visitstreamer.com"><img alt="Real-time web tracking by Visit Streamer" width="1" height="1" src="//28s.s.visitstreamer.com/s28s-QoJupvJyz.gif" /></a></div></noscript>
+<!-- AddThis Pro BEGIN -->
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5396b6de6a217d1b"></script>
+<!-- AddThis Pro END -->
