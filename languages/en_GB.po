@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: Transcript v1.4-B1 - FrameWork 1.0b\n"
+"Project-Id-Version: WebDesa v1.4-B1 - FrameWork 1.0b\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: 2010-05-16 17:17+0300\n"
@@ -20,7 +20,7 @@ msgstr ""
 "X-Textdomain-Support: yes"
 
 #: archive-default.php:75
-#@ Transcript
+#@ WebDesa
 msgid "Posted in"
 msgstr ""
 
@@ -37,12 +37,12 @@ msgstr ""
 #: home.php:640
 #: home.php:709
 #: home.php:759
-#@ Transcript
+#@ WebDesa
 msgid "Read More &raquo;"
 msgstr ""
 
 #: archive-media.php:27
-#@ Transcript
+#@ WebDesa
 msgid "Permalink"
 msgstr ""
 
@@ -54,66 +54,66 @@ msgstr ""
 #: footer.php:10
 #: header.php:107
 #: search.php:5
-#@ Transcript
+#@ WebDesa
 msgid "Home"
 msgstr ""
 
 #: archive.php:8
-#@ Transcript
+#@ WebDesa
 msgid "You are browsing entries filed in"
 msgstr ""
 
 #: archive.php:12
-#@ Transcript
+#@ WebDesa
 msgid "You are browsing entries tagged with"
 msgstr ""
 
 #: archive.php:16
 #: archive.php:20
 #: archive.php:24
-#@ Transcript
+#@ WebDesa
 msgid "Entries posted on"
 msgstr ""
 
 #: archive.php:27
-#@ Transcript
+#@ WebDesa
 msgid "Author Archive"
 msgstr ""
 
 #: archive.php:37
-#@ Transcript
+#@ WebDesa
 msgid "Stories written by"
 msgstr ""
 
 #: attachment.php:7
 #: single.php:10
 #: single.php:56
-#@ Transcript
+#@ WebDesa
 msgid "Posted by"
 msgstr ""
 
 #: attachment.php:17
-#@ Transcript
+#@ WebDesa
 msgid "&laquo; Previous Image"
 msgstr ""
 
 #: attachment.php:17
-#@ Transcript
+#@ WebDesa
 msgid "Back to Post"
 msgstr ""
 
 #: attachment.php:17
-#@ Transcript
+#@ WebDesa
 msgid "Next Image &raquo;"
 msgstr ""
 
 #: comments.php:9
-#@ Transcript
+#@ WebDesa
 msgid "Please do not load this page directly. Thanks!"
 msgstr ""
 
 #: comments.php:12
-#@ Transcript
+#@ WebDesa
 msgid "This post is password protected. Enter the password to view comments."
 msgstr ""
 
@@ -130,7 +130,7 @@ msgstr ""
 #: home.php:640
 #: home.php:709
 #: home.php:759
-#@ Transcript
+#@ WebDesa
 msgid "No Comment"
 msgstr ""
 
@@ -147,7 +147,7 @@ msgstr ""
 #: home.php:640
 #: home.php:709
 #: home.php:759
-#@ Transcript
+#@ WebDesa
 msgid "1 Comment"
 msgstr ""
 
@@ -164,242 +164,242 @@ msgstr ""
 #: home.php:640
 #: home.php:709
 #: home.php:759
-#@ Transcript
+#@ WebDesa
 msgid "% Comments"
 msgstr ""
 
 #: comments.php:21
-#@ Transcript
+#@ WebDesa
 msgid "for"
 msgstr ""
 
 #: comments.php:40
-#@ Transcript
+#@ WebDesa
 msgid "Comments are closed"
 msgstr ""
 
 #: comments.php:47
-#@ Transcript
+#@ WebDesa
 msgid "You must be logged in to post a comment"
 msgstr ""
 
 #: comments.php:47
-#@ Transcript
+#@ WebDesa
 msgid "Login"
 msgstr ""
 
 #: comments.php:50
-#@ Transcript
+#@ WebDesa
 msgid "Leave a Reply"
 msgstr ""
 
 #: comments.php:60
-#@ Transcript
+#@ WebDesa
 msgid "Logged in as:"
 msgstr ""
 
 #: comments.php:60
-#@ Transcript
+#@ WebDesa
 msgid "Logout"
 msgstr ""
 
 #: comments.php:64
-#@ Transcript
+#@ WebDesa
 msgid "Name (required)"
 msgstr ""
 
 #: comments.php:67
-#@ Transcript
+#@ WebDesa
 msgid "Mail (will not be published) (required)"
 msgstr ""
 
 #: comments.php:70
-#@ Transcript
+#@ WebDesa
 msgid "Website"
 msgstr ""
 
 #: footer.php:12
 #: header.php:124
-#@ Transcript
+#@ WebDesa
 msgid "Subscribe to latest posts in RSS"
 msgstr ""
 
 #: footer.php:12
-#@ Transcript
+#@ WebDesa
 msgid "RSS"
 msgstr ""
 
 #: header.php:9
-#@ Transcript
+#@ WebDesa
 msgid "404 Error! Page Not Found"
 msgstr ""
 
 #: header.php:10
 #: search.php:6
-#@ Transcript
+#@ WebDesa
 msgid "Search results for:"
 msgstr ""
 
 #: header.php:122
-#@ Transcript
+#@ WebDesa
 msgid "Stay Connected"
 msgstr ""
 
 #: header.php:124
-#@ Transcript
+#@ WebDesa
 msgid "Latest Posts in RSS"
 msgstr ""
 
 #: header.php:135
-#@ Transcript
+#@ WebDesa
 msgid "Subscribe to latest comments in RSS"
 msgstr ""
 
 #: header.php:135
-#@ Transcript
+#@ WebDesa
 msgid "Latest Comments in RSS"
 msgstr ""
 
 #: header.php:136
-#@ Transcript
+#@ WebDesa
 msgid "Subscribe to latest posts via email"
 msgstr ""
 
 #: header.php:136
-#@ Transcript
+#@ WebDesa
 msgid "Subscribe by e-mail"
 msgstr ""
 
 #: header.php:137
-#@ Transcript
+#@ WebDesa
 msgid "follow on twitter"
 msgstr ""
 
 #: header.php:137
-#@ Transcript
+#@ WebDesa
 msgid "Follow us on Twitter"
 msgstr ""
 
 #: header.php:138
-#@ Transcript
+#@ WebDesa
 msgid "Connect on facebook"
 msgstr ""
 
 #: header.php:138
-#@ Transcript
+#@ WebDesa
 msgid "Connect on Facebook"
 msgstr ""
 
 #: home.php:51
 #: home.php:125
 #: home.php:184
-#@ Transcript
+#@ WebDesa
 msgid "Edit"
 msgstr ""
 
 #: home.php:97
 #: home.php:156
-#@ Transcript
+#@ WebDesa
 msgid " &raquo;"
 msgstr ""
 
 #: home.php:238
-#@ Transcript
+#@ WebDesa
 msgid "Play Video"
 msgstr ""
 
 #: home.php:240
-#@ Transcript
+#@ WebDesa
 msgid "Read More"
 msgstr ""
 
 #: includes/theme-comments.php:14
-#@ Transcript
+#@ WebDesa
 msgid "(Edit)"
 msgstr ""
 
 #: includes/theme-comments.php:23
-#@ Transcript
+#@ WebDesa
 msgid "Your comment is awaiting moderation."
 msgstr ""
 
 #: includes/theme-control-panel.php:13
-#@ Transcript
+#@ WebDesa
 msgid "Theme Settings"
 msgstr ""
 
 #: includes/theme-functions.php:15
-#@ Transcript
+#@ WebDesa
 msgid "Share It"
 msgstr ""
 
 #: includes/theme-functions.php:17
-#@ Transcript
+#@ WebDesa
 msgid "Digg It"
 msgstr ""
 
 #: includes/theme-functions.php:18
-#@ Transcript
+#@ WebDesa
 msgid "Del Icio Us"
 msgstr ""
 
 #: includes/theme-functions.php:19
-#@ Transcript
+#@ WebDesa
 msgid "Add to Facebook"
 msgstr ""
 
 #: includes/theme-functions.php:20
-#@ Transcript
+#@ WebDesa
 msgid "Google Bookmarks"
 msgstr ""
 
 #: includes/theme-functions.php:21
-#@ Transcript
+#@ WebDesa
 msgid "Stumble It"
 msgstr ""
 
 #: includes/theme-functions.php:22
-#@ Transcript
+#@ WebDesa
 msgid "Twitter"
 msgstr ""
 
 #: includes/theme-functions.php:24
-#@ Transcript
+#@ WebDesa
 msgid "Print This Post"
 msgstr ""
 
 #: includes/theme-functions.php:33
-#@ Transcript
+#@ WebDesa
 msgid "More on "
 msgstr ""
 
 #: innerNarrowSidebar.php:21
-#@ Transcript
+#@ WebDesa
 msgid "Archives"
 msgstr ""
 
 #: innerWideSidebar.php:26
-#@ Transcript
+#@ WebDesa
 msgid "Recently Commented"
 msgstr ""
 
 #: innerWideSidebar.php:35
-#@ Transcript
+#@ WebDesa
 msgid "Recently Added"
 msgstr ""
 
 #: mainpage-topsidebar.php:6
-#@ Transcript
+#@ WebDesa
 msgid "MOST RECENT"
 msgstr ""
 
 #: mainpage-topsidebar.php:9
-#@ Transcript
+#@ WebDesa
 msgid "Posts"
 msgstr ""
 
 #: mainpage-topsidebar.php:10
-#@ Transcript
+#@ WebDesa
 msgid "Opinions"
 msgstr ""
 
@@ -414,58 +414,58 @@ msgstr ""
 #: tpl-full_width.php:45
 #: tpl-left_sidebar.php:17
 #: tpl-left_sidebar.php:49
-#@ Transcript
+#@ WebDesa
 msgid "Edit This Post"
 msgstr ""
 
 #: search.php:5
-#@ Transcript
+#@ WebDesa
 msgid "Search in archive"
 msgstr ""
 
 #: searchform.php:3
 #: searchform.php:4
-#@ Transcript
+#@ WebDesa
 msgid "Search in site..."
 msgstr ""
 
 #: single.php:46
-#@ Transcript
+#@ WebDesa
 msgid "Short URL"
 msgstr ""
 
 #: single.php:61
-#@ Transcript
+#@ WebDesa
 msgid "on"
 msgstr ""
 
 #: single.php:61
-#@ Transcript
+#@ WebDesa
 msgid "Filed under"
 msgstr ""
 
 #: single.php:62
-#@ Transcript
+#@ WebDesa
 msgid "You can follow any responses to this entry through the"
 msgstr ""
 
 #: single.php:65
-#@ Transcript
+#@ WebDesa
 msgid "You can leave a response or trackback to this entry"
 msgstr ""
 
 #: single.php:68
-#@ Transcript
+#@ WebDesa
 msgid "Responses are currently closed, but you can trackback from your own site."
 msgstr ""
 
 #: single.php:71
-#@ Transcript
+#@ WebDesa
 msgid "You can skip to the end and leave a response. Pinging is currently not allowed."
 msgstr ""
 
 #: single.php:74
-#@ Transcript
+#@ WebDesa
 msgid "Both comments and pings are currently closed."
 msgstr ""
 
@@ -475,7 +475,7 @@ msgid "Edit This Entry"
 msgstr ""
 
 #: includes/theme-functions.php:23
-#@ Transcript
+#@ WebDesa
 msgid "Add to Reddit"
 msgstr ""
 

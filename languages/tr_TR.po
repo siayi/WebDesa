@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: Transcript v1.4-B1 - FrameWork 1.0b\n"
+"Project-Id-Version: WebDesa v1.4-B1 - FrameWork 1.0b\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: 2010-05-16 17:35+0300\n"
@@ -18,12 +18,12 @@ msgstr ""
 "X-Textdomain-Support: yes\n"
 "X-Poedit-SearchPath-0: .\n"
 
-#@ Transcript
+#@ WebDesa
 #: archive-default.php:75
 msgid "Posted in"
 msgstr "Kategori"
 
-#@ Transcript
+#@ WebDesa
 #: archive-default.php:75
 #: home.php:51
 #: home.php:125
@@ -40,12 +40,12 @@ msgstr "Kategori"
 msgid "Read More &raquo;"
 msgstr "Devamını Oku"
 
-#@ Transcript
+#@ WebDesa
 #: archive-media.php:27
 msgid "Permalink"
 msgstr "Kalıcı bağlantı"
 
-#@ Transcript
+#@ WebDesa
 #: archive.php:7
 #: archive.php:11
 #: archive.php:15
@@ -57,66 +57,66 @@ msgstr "Kalıcı bağlantı"
 msgid "Home"
 msgstr "Ana Sayfa"
 
-#@ Transcript
+#@ WebDesa
 #: archive.php:8
 msgid "You are browsing entries filed in"
 msgstr "Kategori bazında arşiv"
 
-#@ Transcript
+#@ WebDesa
 #: archive.php:12
 msgid "You are browsing entries tagged with"
 msgstr "Etiket bazında arşiv"
 
-#@ Transcript
+#@ WebDesa
 #: archive.php:16
 #: archive.php:20
 #: archive.php:24
 msgid "Entries posted on"
 msgstr "Tarih bazında arşiv"
 
-#@ Transcript
+#@ WebDesa
 #: archive.php:27
 msgid "Author Archive"
 msgstr "Yazar Arşivi"
 
-#@ Transcript
+#@ WebDesa
 #: archive.php:37
 msgid "Stories written by"
 msgstr "Yazar"
 
-#@ Transcript
+#@ WebDesa
 #: attachment.php:7
 #: single.php:10
 #: single.php:56
 msgid "Posted by"
 msgstr "Yazar"
 
-#@ Transcript
+#@ WebDesa
 #: attachment.php:17
 msgid "&laquo; Previous Image"
 msgstr "&laquo; Önceki Fotoğraf"
 
-#@ Transcript
+#@ WebDesa
 #: attachment.php:17
 msgid "Back to Post"
 msgstr "Yazıya Dön"
 
-#@ Transcript
+#@ WebDesa
 #: attachment.php:17
 msgid "Next Image &raquo;"
 msgstr "Sonraki Fotoğraf &raquo;"
 
-#@ Transcript
+#@ WebDesa
 #: comments.php:9
 msgid "Please do not load this page directly. Thanks!"
 msgstr "Bu sayfa doğrudan erişime kapalıdır"
 
-#@ Transcript
+#@ WebDesa
 #: comments.php:12
 msgid "This post is password protected. Enter the password to view comments."
 msgstr "Bu yazı şifre korumalıdır. Yorumları görmek için lütfen şifrenizi giriniz"
 
-#@ Transcript
+#@ WebDesa
 #: comments.php:21
 #: home.php:51
 #: home.php:125
@@ -133,7 +133,7 @@ msgstr "Bu yazı şifre korumalıdır. Yorumları görmek için lütfen şifreni
 msgid "No Comment"
 msgstr "Yorum yok"
 
-#@ Transcript
+#@ WebDesa
 #: comments.php:21
 #: home.php:51
 #: home.php:125
@@ -150,7 +150,7 @@ msgstr "Yorum yok"
 msgid "1 Comment"
 msgstr "1 yorum"
 
-#@ Transcript
+#@ WebDesa
 #: comments.php:21
 #: home.php:51
 #: home.php:125
@@ -167,247 +167,247 @@ msgstr "1 yorum"
 msgid "% Comments"
 msgstr "% yorum"
 
-#@ Transcript
+#@ WebDesa
 #: comments.php:21
 msgid "for"
 msgstr " . "
 
-#@ Transcript
+#@ WebDesa
 #: comments.php:40
 msgid "Comments are closed"
 msgstr "Yoruma kapalı"
 
-#@ Transcript
+#@ WebDesa
 #: comments.php:47
 msgid "You must be logged in to post a comment"
 msgstr "Yorum yazabilmek için giriş yapmanız gerekmektedir"
 
-#@ Transcript
+#@ WebDesa
 #: comments.php:47
 msgid "Login"
 msgstr "Giriş"
 
-#@ Transcript
+#@ WebDesa
 #: comments.php:50
 msgid "Leave a Reply"
 msgstr "Yorum Yazın"
 
-#@ Transcript
+#@ WebDesa
 #: comments.php:60
 msgid "Logged in as:"
 msgstr "Giriş yapan kullanıcı"
 
-#@ Transcript
+#@ WebDesa
 #: comments.php:60
 msgid "Logout"
 msgstr "Çıkış"
 
-#@ Transcript
+#@ WebDesa
 #: comments.php:64
 msgid "Name (required)"
 msgstr "İsim (gerekli)"
 
-#@ Transcript
+#@ WebDesa
 #: comments.php:67
 msgid "Mail (will not be published) (required)"
 msgstr "Mail (yayınlanmayacaktır) (gerekli)"
 
-#@ Transcript
+#@ WebDesa
 #: comments.php:70
 msgid "Website"
 msgstr "Web Sitesi"
 
-#@ Transcript
+#@ WebDesa
 #: footer.php:12
 #: header.php:124
 msgid "Subscribe to latest posts in RSS"
 msgstr "RSS beslemsine üye olun"
 
-#@ Transcript
+#@ WebDesa
 #: footer.php:12
 msgid "RSS"
 msgstr "RSS"
 
-#@ Transcript
+#@ WebDesa
 #: header.php:9
 msgid "404 Error! Page Not Found"
 msgstr "404 Hatası! Sayfa bulunamadı"
 
-#@ Transcript
+#@ WebDesa
 #: header.php:10
 #: search.php:6
 msgid "Search results for:"
 msgstr "Arama sonuçları: "
 
-#@ Transcript
+#@ WebDesa
 #: header.php:122
 msgid "Stay Connected"
 msgstr "Bağlı Kal"
 
-#@ Transcript
+#@ WebDesa
 #: header.php:124
 msgid "Latest Posts in RSS"
 msgstr "Son Yazılar için RSS"
 
-#@ Transcript
+#@ WebDesa
 #: header.php:135
 msgid "Subscribe to latest comments in RSS"
 msgstr "Son Yorumlar için RSS"
 
-#@ Transcript
+#@ WebDesa
 #: header.php:135
 msgid "Latest Comments in RSS"
 msgstr "Son Yorumlar için RSS"
 
-#@ Transcript
+#@ WebDesa
 #: header.php:136
 msgid "Subscribe to latest posts via email"
 msgstr "Email Aboneliği"
 
-#@ Transcript
+#@ WebDesa
 #: header.php:136
 msgid "Subscribe by e-mail"
 msgstr "Email Aboneliği"
 
-#@ Transcript
+#@ WebDesa
 #: header.php:137
 msgid "follow on twitter"
 msgstr "Twitter'da Takip Et"
 
-#@ Transcript
+#@ WebDesa
 #: header.php:137
 msgid "Follow us on Twitter"
 msgstr "Twitter'da Takip Et"
 
-#@ Transcript
+#@ WebDesa
 #: header.php:138
 msgid "Connect on facebook"
 msgstr "Facebook ile Bağlan"
 
-#@ Transcript
+#@ WebDesa
 #: header.php:138
 msgid "Connect on Facebook"
 msgstr "Facebook ile Bağlan"
 
-#@ Transcript
+#@ WebDesa
 #: home.php:51
 #: home.php:125
 #: home.php:184
 msgid "Edit"
 msgstr "Düzenle"
 
-#@ Transcript
+#@ WebDesa
 #: home.php:97
 #: home.php:156
 msgid " &raquo;"
 msgstr " &raquo;"
 
-#@ Transcript
+#@ WebDesa
 #: home.php:238
 msgid "Play Video"
 msgstr "Videoyu Oynat"
 
-#@ Transcript
+#@ WebDesa
 #: home.php:240
 msgid "Read More"
 msgstr "Devamını Oku"
 
-#@ Transcript
+#@ WebDesa
 #: includes/theme-comments.php:14
 msgid "(Edit)"
 msgstr "(Düzenle)"
 
-#@ Transcript
+#@ WebDesa
 #: includes/theme-comments.php:23
 msgid "Your comment is awaiting moderation."
 msgstr "Yorumunuz onay beklemekte"
 
-#@ Transcript
+#@ WebDesa
 #: includes/theme-control-panel.php:13
 msgid "Theme Settings"
 msgstr "Tema Kontrol Paneli"
 
-#@ Transcript
+#@ WebDesa
 #: includes/theme-functions.php:15
 msgid "Share It"
 msgstr "Paylaş"
 
-#@ Transcript
+#@ WebDesa
 #: includes/theme-functions.php:17
 msgid "Digg It"
 msgstr "Digg"
 
-#@ Transcript
+#@ WebDesa
 #: includes/theme-functions.php:18
 msgid "Del Icio Us"
 msgstr "Del Icio Us"
 
-#@ Transcript
+#@ WebDesa
 #: includes/theme-functions.php:19
 msgid "Add to Facebook"
 msgstr "Facebook"
 
-#@ Transcript
+#@ WebDesa
 #: includes/theme-functions.php:20
 msgid "Google Bookmarks"
 msgstr "Google Bookmarks"
 
-#@ Transcript
+#@ WebDesa
 #: includes/theme-functions.php:21
 msgid "Stumble It"
 msgstr "Stumble"
 
-#@ Transcript
+#@ WebDesa
 #: includes/theme-functions.php:22
 msgid "Twitter"
 msgstr "Twitter"
 
-#@ Transcript
+#@ WebDesa
 #: includes/theme-functions.php:23
 msgid "Add to Reddit"
 msgstr "Reddit'e Ekle"
 
-#@ Transcript
+#@ WebDesa
 #: includes/theme-functions.php:24
 msgid "Print This Post"
 msgstr "Yazdır"
 
-#@ Transcript
+#@ WebDesa
 #: includes/theme-functions.php:33
 msgid "More on "
 msgstr "Kategori Arşivi: "
 
-#@ Transcript
+#@ WebDesa
 #: innerNarrowSidebar.php:21
 msgid "Archives"
 msgstr "Arşiv"
 
-#@ Transcript
+#@ WebDesa
 #: innerWideSidebar.php:26
 msgid "Recently Commented"
 msgstr "En Son Yorumlananlar"
 
-#@ Transcript
+#@ WebDesa
 #: innerWideSidebar.php:35
 msgid "Recently Added"
 msgstr "Son Eklenenler"
 
-#@ Transcript
+#@ WebDesa
 #: mainpage-topsidebar.php:6
 msgid "MOST RECENT"
 msgstr "EN SON"
 
-#@ Transcript
+#@ WebDesa
 #: mainpage-topsidebar.php:9
 msgid "Posts"
 msgstr "Yazılar"
 
-#@ Transcript
+#@ WebDesa
 #: mainpage-topsidebar.php:10
 msgid "Opinions"
 msgstr "Görüşler"
 
-#@ Transcript
+#@ WebDesa
 #: page.php:8
 #: page.php:40
 #: single.php:15
@@ -422,53 +422,53 @@ msgstr "Görüşler"
 msgid "Edit This Post"
 msgstr "Düzenle"
 
-#@ Transcript
+#@ WebDesa
 #: search.php:5
 msgid "Search in archive"
 msgstr "Arşivde arama"
 
-#@ Transcript
+#@ WebDesa
 #: searchform.php:3
 #: searchform.php:4
 msgid "Search in site..."
 msgstr "Site içi arama..."
 
-#@ Transcript
+#@ WebDesa
 #: single.php:46
 msgid "Short URL"
 msgstr "Kısa URL"
 
-#@ Transcript
+#@ WebDesa
 #: single.php:61
 msgid "on"
 msgstr " . "
 
-#@ Transcript
+#@ WebDesa
 #: single.php:61
 msgid "Filed under"
 msgstr "Kategori"
 
-#@ Transcript
+#@ WebDesa
 #: single.php:62
 msgid "You can follow any responses to this entry through the"
 msgstr "Bu yazıya eklenen yorumları RSS beslemesi üzerinden takit edebilirsiniz"
 
-#@ Transcript
+#@ WebDesa
 #: single.php:65
 msgid "You can leave a response or trackback to this entry"
 msgstr "Yorum yazabilir veya geri izlemede bulunabilirsiniz."
 
-#@ Transcript
+#@ WebDesa
 #: single.php:68
 msgid "Responses are currently closed, but you can trackback from your own site."
 msgstr "Yoruma kapalı fakat geri izlemeye açıkç"
 
-#@ Transcript
+#@ WebDesa
 #: single.php:71
 msgid "You can skip to the end and leave a response. Pinging is currently not allowed."
 msgstr "Yoruma açık fakat geri izlemeye kapalı."
 
-#@ Transcript
+#@ WebDesa
 #: single.php:74
 msgid "Both comments and pings are currently closed."
 msgstr "Yoruma ve geri izlemeye kapalı"
